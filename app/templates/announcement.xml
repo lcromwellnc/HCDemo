@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Response>
+  <Gather action="/orderack" timeout="5" numDigits="1">
+    <Say>Hello from Mercy Cardiology. Your weight is trending up. One of our practitioners will be calling you shortly. Please press any key to acknowledge.</Say>
+  </Gather>
+  <Gather action="/orderack" timeout="5" numDigits="1">
+    <Say>Your weight is trending up. One of our practitioners will be calling you shortly.   Please press any key to acknowledge.</Say>
+  </Gather>
+  <Redirect>/noack?Tries={{ tries }}</Redirect>
+</Response>

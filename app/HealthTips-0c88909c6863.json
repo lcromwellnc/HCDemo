@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "healthtips-2017",
+  "private_key_id": "0c88909c686361cf08682ff3807a360dfdfb64aa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC/hegQ4BjUaDYO\ntskfeIwxEFzBMAftPYyduQ/nE1WLmUBUdssVineZ6bZuRO3mHtd/UGSAaIA70kLR\nqBBFWiA7rtKxsHpHxHLxQGORel2iosamx/2HOGj8cuaI9zd1QE97yYUikMNgvtWk\nI21P1JTyQz2QJhXkyRR+NLDRyzzRN0z3VZFZQNIDqB4S4bbWfLT2fmSW5cB0drhJ\n+Z9r1X2ReRuqDfp1jJ7O2uYVOKLMmhH6bjGZEKmK38d2XHhEtC5qMM+7bn1O53SB\nYGMao9u8J76j7orO827jorzsU2LbFR7v8Ezzi40kvc2mdaw3D0dHaOH0AhNizt1r\nn9QOfOc9AgMBAAECggEAJ8DAmXgaT0ROLCGuf1TDLI/r4MF6c7i5zicScPEnaXFm\n0+FQZ+k0yAKlth+ijYhLTIbARZLrQv9ylRfgQLTjSeAQpYcu6mSRQxgNUq3mb5J/\nzzBlpEKGMBgdV8KQhUrS9KuwcatAkn0p1Qbxcod6Xwqr5ZayJqnCEiwXo4Qe3IHU\nPJfRJ0VzO7J2mQB0Csc4OhSpOEPoUY7xDfZ41RSNxkIGfn9C0jlCe6+q9UzvTGTz\n58DOoR4FC32wYQg5Rojf4EbLmEZkxBv+cOnrGzPEty60SExAvA70VPGZYDsaCbaF\nzJ0OhG2XUbj3kcx8C8S3N1DkBjO+IGVKY1KI0N69wQKBgQD9QFFcd8OxzDJUwsjh\nAFmhM6RYcb/vCWufRgD0fkswTqKlsYoQDR5aCH4wNQQwq6/RZFb37mcwXLbm9+6q\nBPMD4E5mnuHr3u6bH1r8ryKI8tKfQY7i2JF8faYF0qhYiaWy9AMPgGdNo0wAjsZV\nQuJuEhF5DEJjlQ/QNsa7HXYN8QKBgQDBmhI7VY4qrWz5Lj1wK3pcgt4zbCtvHaJk\n3AIGV4+0qIXJbMRnVzWgujO1sC4JNFAnUUE94jRgSp6dCBmjvZjPR9WnShea2z89\n+WW8cOif3x4RMcWebxiQEa16yZBZcDHCiCcRzGsu3Qh2rafQmPZPaYtdGpDDiuks\nZb4DhHdSDQKBgQDHpHx/OKq87wx+ZU+WkIAX5G4aixGTjwmYdccq9qSvYE438M21\n+aGDuE5CEolLFQ11NHSa3wXZyj0lty4eOeiZlao4m+fd2dCf2QgRSr8e1s3TXgsW\nKUQHr8XBsV+k7F4DxPjkr4TAX4r6pZMUg7WcsAG2O0Pa3ReqPIRN3dvDAQKBgEE+\ncQJ59K1BQMZA5QeWP2hJ2iQuQfzyWbXvxuboP0+8s0mMVCwXYcVGuwJx2zHS5Wg6\no+f9AXWp8AYvoqRh0suYA9Kaz5WqaYezMqvsyRiHkpRs15JrEjYLHxGQOAtMGhja\n1X/UChMC/kUwhKtxwSBGC2dW+o5LlAUYTI7W53dJAoGBALt8FJjn13Si2TjPJKuq\n35ToTvxQoR99JACoZG1VY9xgl0sONtXA8zp7fY2oxos76felgSogsBizWgRNB/9z\nShzabeklK4Mpx0pxlr9L8efPMI3g7xjmKHEHyDWd2M1BqMhE6JruqE6cTEeNSdhV\n07oQJFswZ1QSM7cQTD32C5io\n-----END PRIVATE KEY-----\n",
+  "client_email": "advisor@healthtips-2017.iam.gserviceaccount.com",
+  "client_id": "114091437499485513089",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/advisor%40healthtips-2017.iam.gserviceaccount.com"
+}

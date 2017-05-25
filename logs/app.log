@@ -1,0 +1,52 @@
+2017-01-29 14:48:05 EST, Call initiated: From=617-510-5354, To=617-340-3004 , URL=http://8b6430f3.ngrok.io/announcement, StatusCallback=http://8b6430f3.ngrok.io/callended
+2017-01-29 14:48:22 EST, Call ended: From=+16175105354, To=+16173403004, Status=no-answer
+2017-01-29 14:57:27 EST, Call initiated: From=617-510-5354, To=617-340-3004 , URL=http://8b6430f3.ngrok.io/announcement, StatusCallback=http://8b6430f3.ngrok.io/callended
+2017-01-29 14:57:40 EST, Call ended: From=+16175105354, To=+16173403004, Status=failed
+2017-01-29 15:02:36 EST, Call initiated: From=6173403004, To=6175105354, URL=http://8b6430f3.ngrok.io/announcement, StatusCallback=http://8b6430f3.ngrok.io/callended
+2017-01-29 15:02:45 EST, Call ended: From=+16173403004, To=+16175105354, Status=completed
+2017-01-29 15:06:53 EST, Call initiated: From=6173403004, To=6175105354, URL=http://8b6430f3.ngrok.io/announcement, StatusCallback=http://8b6430f3.ngrok.io/callended
+2017-01-29 15:07:10 EST, Call ended: From=+16173403004, To=+16175105354, Status=no-answer
+2017-01-29 15:43:06 EST, Call initiated: From=6173403004, To=6175105354, URL=http://8b6430f3.ngrok.io/announcement, StatusCallback=http://8b6430f3.ngrok.io/callended?Tries=1
+2017-01-29 15:43:15 EST, Call ended: From=+16173403004, To=+16175105354, Status=completed, Tries=1
+2017-01-29 16:06:02 EST, Call initiated: From=6173403004, To=6175105354, URL=http://8b6430f3.ngrok.io/announcement, StatusCallback=http://8b6430f3.ngrok.io/callended?Tries=1
+2017-01-29 16:06:20 EST, Call ended: From=+16173403004, To=+16175105354, Status=no-answer, Tries=1
+2017-01-29 16:11:53 EST, Call initiated: From=6173403004, To=6175105354, URL=http://8b6430f3.ngrok.io/announcement, StatusCallback=http://8b6430f3.ngrok.io/callended?Tries=1
+2017-01-29 16:12:11 EST, Call ended: From=+16173403004, To=+16175105354, Status=no-answer, Tries=1
+2017-01-29 19:05:10 EST, Call initiated: From=6173403004, To=6175105354, URL=http://8b6430f3.ngrok.io/announcement, StatusCallback=http://8b6430f3.ngrok.io/callended?Tries=1
+2017-01-29 19:05:28 EST, Call ended: From=+16173403004, To=+16175105354, Status=no-answer, Tries=1
+2017-01-29 19:07:29 EST, Call initiated: From=+16173403004, To=+16175105354, URL=http://8b6430f3.ngrok.io/announcement, StatusCallback=http://8b6430f3.ngrok.io/callended?Tries=2
+2017-01-29 19:07:46 EST, Call ended: From=+16173403004, To=+16175105354, Status=no-answer, Tries=2
+2017-01-29 23:09:48 EST, Call initiated: From=6173403004, To=6175105354, URL=http://1d1c4857.ngrok.io/announcement?Tries=1, StatusCallback=http://1d1c4857.ngrok.io/callended?Tries=1
+2017-01-29 23:10:08 EST, Call ended: From=+16173403004, To=+16175105354, Status=completed, Tries=1
+2017-01-29 23:13:32 EST, Call initiated: From=6173403004, To=6175105354, URL=http://1d1c4857.ngrok.io/announcement?Tries=1, StatusCallback=http://1d1c4857.ngrok.io/callended?Tries=1
+2017-01-29 23:13:59 EST, No acknowledgement: From=+16173403004, To=+16175105354, Tries=1
+2017-01-29 23:14:03 EST, Call ended: From=+16173403004, To=+16175105354, Status=completed, Tries=1
+2017-01-29 23:16:51 EST, Call initiated: From=617-510-5354, To=6175105354, URL=http://1d1c4857.ngrok.io/announcement?Tries=1, StatusCallback=http://1d1c4857.ngrok.io/callended?Tries=1
+2017-01-29 23:17:12 EST, No acknowledgement: From=+16175105354, To=+16175105354, Tries=1
+2017-01-29 23:17:16 EST, Call ended: From=+16175105354, To=+16175105354, Status=completed, Tries=1
+2017-01-29 23:19:12 EST, Call initiated: From=+16175105354, To=+16175105354, URL=http://1d1c4857.ngrok.io/announcement?Tries=2, StatusCallback=http://1d1c4857.ngrok.io/callended?Tries=2
+2017-01-29 23:19:33 EST, No acknowledgement: From=+16175105354, To=+16175105354, Tries=2
+2017-01-29 23:19:37 EST, Call ended: From=+16175105354, To=+16175105354, Status=completed, Tries=2
+2017-01-30 00:29:02 EST, Call initiated: From=6173403004, To=6175105354, URL=http://1d1c4857.ngrok.io/announcement?Tries=1, StatusCallback=http://1d1c4857.ngrok.io/callended?Tries=1
+2017-01-30 00:29:29 EST, No acknowledgement: From=+16173403004, To=+16175105354, Tries=1
+2017-01-30 00:29:33 EST, Call ended: From=+16173403004, To=+16175105354, Status=completed, Tries=1
+2017-01-30 00:31:30 EST, Call initiated: From=+16173403004, To=+16175105354, URL=http://1d1c4857.ngrok.io/announcement?Tries=2, StatusCallback=http://1d1c4857.ngrok.io/callended?Tries=2
+2017-01-30 00:31:54 EST, No acknowledgement: From=+16173403004, To=+16175105354, Tries=2
+2017-01-30 00:31:55 EST, Call ended: From=+16173403004, To=+16175105354, Status=completed, Tries=2
+2017-01-30 00:41:58 EST, Call initiated: From=6173403004, To=6175105354, URL=http://1d1c4857.ngrok.io/announcement?Tries=1, StatusCallback=http://1d1c4857.ngrok.io/callended?Tries=1
+2017-01-30 00:42:21 EST, No acknowledgement: From=+16173403004, To=+16175105354, Tries=1
+2017-01-30 00:42:21 EST, Call ended: From=+16173403004, To=+16175105354, Status=completed, Tries=1
+2017-01-30 00:44:21 EST, Call initiated: From=+16173403004, To=+16175105354, URL=http://1d1c4857.ngrok.io/announcement?Tries=2, StatusCallback=http://1d1c4857.ngrok.io/callended?Tries=2
+2017-01-30 00:44:31 EST, Order acknowledged: From=+16173403004, To=+16175105354
+2017-01-30 00:44:33 EST, Call ended: From=+16173403004, To=+16175105354, Status=completed, Tries=2
+2017-05-09 10:08:31 EDT, Call initiated: From=6202664198, To=9196569888, URL=http://127.0.0.1:5000/announcement?Tries=1, StatusCallback=http://127.0.0.1:5000/callended?Tries=1
+2017-05-09 10:19:45 EDT, Call initiated: From=6202664198, To=9196569888, URL=http://127.0.0.1:5000/announcement?Tries=1, StatusCallback=http://127.0.0.1:5000/callended?Tries=1
+2017-05-09 10:23:25 EDT, Call initiated: From=6202664198, To=9196569888, URL=http://127.0.0.1:5000/announcement?Tries=1, StatusCallback=http://127.0.0.1:5000/callended?Tries=1
+2017-05-09 10:25:48 EDT, Call initiated: From=6202664198, To=9196569888, URL=http://127.0.0.1:5000/announcement?Tries=1, StatusCallback=http://127.0.0.1:5000/callended?Tries=1
+2017-05-09 10:27:18 EDT, Call initiated: From=6202664198, To=9196569888, URL=http://127.0.0.1:5000/announcement?Tries=1, StatusCallback=http://127.0.0.1:5000/callended?Tries=1
+2017-05-09 13:45:30 EDT, Call initiated: From=6202664198, To=9196569888, URL=http://152404d8.ngrok.io/announcement?Tries=1, StatusCallback=http://152404d8.ngrok.io/callended?Tries=1
+2017-05-09 13:45:47 EDT, No acknowledgement: From=+16202664198, To=+19196569888, Tries=1
+2017-05-09 13:45:47 EDT, Call ended: From=+16202664198, To=+19196569888, Status=completed, Tries=1
+2017-05-09 13:47:47 EDT, Call initiated: From=+16202664198, To=+19196569888, URL=http://152404d8.ngrok.io/announcement?Tries=2, StatusCallback=http://152404d8.ngrok.io/callended?Tries=2
+2017-05-09 13:48:06 EDT, Order acknowledged: From=+16202664198, To=+19196569888
+2017-05-09 13:48:08 EDT, Call ended: From=+16202664198, To=+19196569888, Status=completed, Tries=2
